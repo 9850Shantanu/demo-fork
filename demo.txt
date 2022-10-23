@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello I am main
-=======
-Hello I am branch-1
->>>>>>> branch-1
+
