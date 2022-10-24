@@ -6,3 +6,5 @@ Stash Testing 1
 Stash Testing 2
 
 demo v1.0
+autor raptor-2001
+location WCE,Sangli
